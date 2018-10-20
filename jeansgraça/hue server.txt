@@ -1,0 +1,9 @@
+me passa os passo as passo
+
+1 - no node: npm install -g @vue/cli
+2 - vue create <nome do projeto> (na pasta que eu quero)
+3 - cd pra entra na pasta huehue
+4 - npm run serve
+
+
+usar o axios no vue pra chamar api express
